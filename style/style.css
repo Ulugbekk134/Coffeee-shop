@@ -1,0 +1,44 @@
+* {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  margin: 0 auto;
+  background-image: url(../imgs/Rectangle\ 12.png);
+  background-repeat: no-repeat;
+  padding-left: 150px;
+  height: 900px;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+  padding-top: 50px;
+}
+.header {
+}
+.foter {
+  display: flex;
+  margin-top: 100px;
+}
+.text {
+}
+.pe {
+  font-size: 56px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 900;
+}
+.pe-2 {
+  font-size: 25px;
+}
+.btn {
+  width: 202px;
+  height: 70px;
+  background: #c99e71;
+}
+.video {
+  margin-left: 560px;
+  margin-top: 390px;
+}
